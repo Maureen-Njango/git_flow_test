@@ -1,0 +1,54 @@
+#container{
+    background-color: aliceblue;
+    width: 1100px;
+    border: 50px solid ; color: RGB(160, 154, 231);
+    margin: 30px ;
+    border-radius: 15px;
+    
+    
+    
+}
+#container2{
+    background-color: aliceblue;
+    width:100px;
+    height: 600px;
+    padding: 10px;
+    
+ 
+}
+
+    
+
+/* #form{
+ color: #000;
+ margin: 50px;
+ margin-right:50px; */
+ 
+ 
+ 
+
+#nav{
+    grid-template-rows:10px;
+    padding-block: 20px;
+    display: flex;
+    flex: center;
+    
+    
+    
+ 
+
+}
+.bar{
+    
+    padding-block: 10px;
+    display: flex;
+    grid-template-rows: 10px;
+    gap: 100px;
+
+    
+
+}
+.let{
+    padding-left: 500px;
+
+}
