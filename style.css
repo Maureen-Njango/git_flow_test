@@ -12,18 +12,17 @@
     background-color: aliceblue;
     width:100px;
     height: 600px;
-    padding: 10px;
-    
+    padding: 10px;   
  
 }
 
     
 
-/* #form{
+#form{
  color: #000;
  margin: 50px;
- margin-right:50px; */
- 
+ margin-right:50px;
+}
  
  
 
@@ -31,24 +30,13 @@
     grid-template-rows:10px;
     padding-block: 20px;
     display: flex;
-    flex: center;
-    
-    
-    
- 
-
-}
-.bar{
-    
-    padding-block: 10px;
-    display: flex;
-    grid-template-rows: 10px;
-    gap: 100px;
-
+    text-align: right;
     
 
 }
-.let{
-    padding-left: 500px;
 
-}
+
+
+    
+
+
